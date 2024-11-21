@@ -1,16 +1,29 @@
 # Formação Java: Orientação a Objetos
 
-## 1. Entender a linguagem Java
-- Compreender profundamente a linguagem Java, que é a base para o desenvolvimento de aplicações web e back-end.
-- Aprender os recursos essenciais da linguagem, como variáveis, controle de fluxo e laços de repetição.
-- Aplicar esses conceitos fundamentais no estudo da linguagem para facilitar o desenvolvimento de aplicações robustas.
+---
+
+## 1. Entender a Linguagem Java
+
+- **Objetivo:** Compreender a linguagem Java, a base para o desenvolvimento de aplicações web e back-end.
+- **Tópicos a serem aprendidos:**
+  - Variáveis, controle de fluxo e laços de repetição.
+  - Conceitos essenciais para a criação de programas sólidos e bem estruturados.
+
+---
 
 ## 2. Orientação a Objetos
-- Desenvolver um conhecimento sólido sobre o paradigma de orientação a objetos e boas práticas de programação.
-- Compreender os principais conceitos da orientação a objetos, como classes, herança e interfaces.
-- Aplicar esses conceitos no dia a dia da programação para criar códigos eficientes e bem organizados.
 
-## 3. Manipular listas, consumir uma API e lidar com exceções
-- Aprimorar conhecimentos avançados em Java, incluindo a manipulação de listas de objetos.
-- Aprender a consumir APIs de sistemas externos para carregar dados no formato JSON e salvá-los em arquivos locais.
-- Estudar o tratamento de exceções para lidar adequadamente com erros durante a execução dos projetos Java, garantindo a robustez do sistema.
+- **Objetivo:** Desenvolver um sólido conhecimento em orientação a objetos e boas práticas de programação.
+- **Tópicos a serem aprendidos:**
+  - Conceitos principais: classes, herança, interfaces.
+  - Aplicação de orientação a objetos para garantir códigos eficientes, reutilizáveis e organizados.
+
+---
+
+## 3. Manipulação de Listas, Consumo de APIs e Tratamento de Exceções
+
+- **Objetivo:** Aprimorar o uso de conceitos mais avançados da linguagem Java.
+- **Tópicos a serem aprendidos:**
+  - Manipulação de listas de objetos e operações relacionadas.
+  - Consumo de APIs externas para carregar dados no formato JSON e salvar em arquivos locais.
+  - Tratamento de exceções para garantir a robustez das aplicações.
