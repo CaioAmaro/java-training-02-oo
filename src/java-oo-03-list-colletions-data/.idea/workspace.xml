@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09acd931-48e6-496c-a98b-86385d39f8a5" name="Changes" comment="Finalizando Curso">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CaioAmaro&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/CaioAmaro/Java_OO_Curso3.git&quot;,
+    &quot;accountId&quot;: &quot;3cd38d2a-f75b-470e-a2e4-139b65b716af&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2onVYTvu9M8RI5RuSFbds8ttC3G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Principal (1).executor": "Run",
+    "Application.Principal.executor": "Run",
+    "Application.PrincipalComListas.executor": "Run",
+    "Application.br.com.alura.desafios.desafio02.Principal.executor": "Run",
+    "Application.br.com.alura.desafios.desafio03.Principal.executor": "Run",
+    "Application.br.com.alura.desafios.desafio04.Principal.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/caioa/OneDrive/Área de Trabalho/Java_Cursos_Alura/Java_OO_Curso4"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Principal">
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.desafios.desafiofinal.Principal" />
+      <module name="Java_OO_Curso3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.desafios.desafiofinal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrincipalComListas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.screenmatch.principal.PrincipalComListas" />
+      <module name="Java_OO_Curso3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.screenmatch.principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="br.com.alura.desafios.desafio02.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.desafios.desafio02.Principal" />
+      <module name="Java_OO_Curso3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.desafios.desafio02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="br.com.alura.desafios.desafio03.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.desafios.desafio03.Principal" />
+      <module name="Java_OO_Curso3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.desafios.desafio03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="br.com.alura.desafios.desafio04.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.desafios.desafio04.Principal" />
+      <module name="Java_OO_Curso3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.desafios.desafio04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Principal" />
+        <item itemvalue="Application.br.com.alura.desafios.desafio04.Principal" />
+        <item itemvalue="Application.PrincipalComListas" />
+        <item itemvalue="Application.br.com.alura.desafios.desafio03.Principal" />
+        <item itemvalue="Application.br.com.alura.desafios.desafio02.Principal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09acd931-48e6-496c-a98b-86385d39f8a5" name="Changes" comment="" />
+      <created>1731505377244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731505377244</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Finalizando Curso">
+      <option name="closed" value="true" />
+      <created>1731784088676</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731784088676</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Finalizando Curso">
+      <option name="closed" value="true" />
+      <created>1731784110964</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731784110964</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finalizando Curso" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalizando Curso" />
+  </component>
+</project>
